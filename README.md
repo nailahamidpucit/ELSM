@@ -4,8 +4,8 @@ ELSM is a technique that takes detected segments for an image and its size as in
 Here, we provide a step-by-step generic approach for the technique as an image and demo animations below.
 ![Pipeline](/assets/img/pipeline.jpg)
 
-# Input segments with Final Merged Segments
+# Input Segments with Final Merged Segments
 ![Demo Final](/assets/map.gif)
 
-# Inpternal Merging Steps
+# Internal Merging Steps
 ![Demo Detail](/assets/map_many.gif)
